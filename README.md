@@ -1,9 +1,9 @@
 # Superstore Sales Analysis
 
-## 📌 Project Overview
+##  Project Overview
 Analyze the Superstore dataset to identify top customers, best-selling products, and regional profit trends.
 
-## 📂 Project Structure
+##  Project Structure
 superstore-analysis/
 │
 ├── data/              # Raw dataset CSV
@@ -12,15 +12,13 @@ superstore-analysis/
 ├── README.md          # Project description
 └── .venv/             # Virtual environment (ignored in GitHub)
 
-## ⚙️ Tools & Libraries
+##  Tools & Libraries
 - Python 3.10+
 - pandas
 - matplotlib
 - seaborn
 - Jupyter Notebook
 
-## 🚀 How to Run
-1. Clone the repo:
-```bash
+##  How to Run
 git clone https://github.com/eyaH5/superstore-analysis.git
 cd superstore-analysis
